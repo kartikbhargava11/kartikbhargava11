@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kartik Bhargava
 =======================================================================================================================================
 
-I'm web & app developer.
+I'm a data engineer.
 
-* 🌍  I'm based in England
+* 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [kartikbhargava1997@gmail.com](mailto:kartikbhargava1997@gmail.com)
 
 ### Skills
