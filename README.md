@@ -1,13 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kartik Bhargava
 =======================================================================================================================================
 
-Data Scientist
---------------
-
-I've been coding and working on interesting projects since 2020. Started as software developer then shifted interest towards data science.
+I've been coding and working on interesting projects since 2019.
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [kartikbhargava1997@gmail.com](mailto:kartikbhargava1997@gmail.com)
+* ✉️  You can contact me at [kartikbhargava027@gmail.com](mailto:kartikbhargava027@gmail.com)
 * 🚀  I'm currently working on [Stress detection via wearable using multiple sensors](http://github.com/kartikbhargava11/stress_detection_nurses)
 * 🧠  I'm learning Deep Learning
 
