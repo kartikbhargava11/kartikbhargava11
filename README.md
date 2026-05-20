@@ -5,8 +5,8 @@ I've been working on interesting projects since 2019.
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [kartikbhargava4@gmail.com](mailto:kartikbhargava4@gmail.com)
-* 🚀  I'm currently working on Financial Modelling Project
-* 🧠  I'm also learning Deep Learning
+* 🚀  I'm currently working on Financial Modelling Project n A Web Crawling Project
+* 🧠  I'm learning AI Automation
 
 ### Skills
 
